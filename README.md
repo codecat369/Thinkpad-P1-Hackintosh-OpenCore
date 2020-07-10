@@ -1,4 +1,4 @@
-# Thinkpad-P1-Hackintosh-OpenCore
+# Thinkpad-P1Gen1-Hackintosh-OpenCore
 1. OpenCore: v0.59
 2. BIOS: v1.30 2020-07
 3. Module: MacBook Pro (15-inch Mid 2018)
@@ -15,3 +15,7 @@
 2. WIFI&Bluetooth：work（Use this card：  https://item.taobao.com/item.htm?spm=a1z09.2.0.0.61fa2e8dlUJrMt&id=536456437295&_u=b4h0eima213）
 3. USB type-c: work
 4. HDMI: not support！
+
+# Links
+1. https://github.com/p455555555/Thinkpad-P1-EFI
+2。https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme
